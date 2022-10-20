@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**ImasZubaidia/ImasZubaidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Imas from Palestine, and Full - Stack developer. I really enjoy learning languages and frameworks , as well as learning at Axsos Academy. I also enjoy wireframing and design in general.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImasZubaidia=dark&show_icons=true)
+
 
 Here are some ideas to get you started:
 
