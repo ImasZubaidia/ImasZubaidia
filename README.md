@@ -14,7 +14,7 @@ Skills: Python / JavaScript / HTML5 / CSS / SQL
 - ⚡ Fun fact: I have 5 cats 
 
 
-                     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImasZubaidia)  [<img                          src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ImasZubaidia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImasZubaidia)  [<img                          src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ImasZubaidia/)  
 
 
 
