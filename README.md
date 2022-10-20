@@ -1,7 +1,7 @@
 
 I'm Imas from Palestine, and Full - Stack developer. I really enjoy learning languages and frameworks , as well as learning at Axsos Academy. I also enjoy wireframing and design in general.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaszibaidia=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaszubaidia&count_private=true)
 
 
 Here are some ideas to get you started:
