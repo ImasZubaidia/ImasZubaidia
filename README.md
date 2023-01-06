@@ -14,6 +14,7 @@ Please feel free to reach out to me in imaszubaidia@gmail.com
 Competencies: 
 Languages: Python, Javascript, HTML5, CSS, SQL | Frameworks/Libraries: Django, Flask, Jinja2 | Databases: MySQL | Tools: Git, Github, MySQL workbench, AWS(EC2), JSON, AJAX.
 
+<p align="center">
 
 #### Languages and Tools
 [![](https://skillicons.dev/icons?i=java,spring,mysql,react,python,django,express,mongo,js,git,github)]()
