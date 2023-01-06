@@ -12,7 +12,7 @@ I would love to stay in touch with art lovers and people who are continuously wo
 Please feel free to reach out to me in imaszubaidia@gmail.com 
 
 Competencies: 
-Languages: Python, Javascript, HTML5, CSS, SQL | Frameworks/Libraries: Django, Flask, Jinja2 | Databases: MySQL | Tools: Git, Github, MySQL workbench, AWS(EC2), JSON, AJAX, Java, Mongo DB, Spring Boot.
+Languages: Python, Javascript, Java, HTML5, CSS, SQL, | Frameworks/Libraries: Django, Flask, Jinja2, Spring, | Databases: MySQL, MongoDB, | Tools: Git, Github, MySQL workbench, AWS(EC2), JSON, AJAX.
 
 
 
