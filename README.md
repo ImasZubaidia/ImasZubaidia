@@ -14,11 +14,6 @@ Please feel free to reach out to me in imaszubaidia@gmail.com
 Competencies: 
 Languages: Python, Javascript, HTML5, CSS, SQL | Frameworks/Libraries: Django, Flask, Jinja2 | Databases: MySQL | Tools: Git, Github, MySQL workbench, AWS(EC2), JSON, AJAX.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaszubaidia&count_private=true)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImasZubaidia)  [<img                          src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ImasZubaidia/)  
-
 
 #### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
