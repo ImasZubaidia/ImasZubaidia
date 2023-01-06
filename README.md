@@ -29,7 +29,7 @@ Languages: Python, Javascript, HTML5, CSS, SQL | Frameworks/Libraries: Django, F
 
 #### contacts:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImasZubaidia) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imaszubaidia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imaszubaidia)(https://www.linkedin.com/in/imas-zubaidia/))  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImasZubaidia)](https://github.com/anuraghazra/github-readme-stats)
 
